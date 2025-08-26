@@ -1,6 +1,6 @@
 # Cybersecurity Certification Roadmap (Personal Plan)
 
-## 🔹 My Honest Recommendation for You
+## 🔹 My Honest Recommendation for You :
 
 Since you want to become a full-fledged hacker + land a role fast in India:
 
@@ -49,3 +49,4 @@ Since you want to become a full-fledged hacker + land a role fast in India:
 - Get your **first cybersecurity role faster** (thanks to CEH + Sec+).  
 - Stand out in **technical interviews** (thanks to eJPT + projects from roadmap).  
 - Eventually, become a **true pentester** (OSCP).  
+
